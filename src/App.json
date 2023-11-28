@@ -1,0 +1,49 @@
+{
+  "title": "Aplicação-Web---E-commerce-de-vinho",
+  "description": "Winewave",
+  "version": "1.0.0",
+  "author": "Mariana Muniz",
+  "keywords": ["react", "web", "app"],
+  "routes": [
+    {
+      "path": "/",
+      "title": "Home",
+      "metaDescription": "Welcome to the home page."
+    },
+    {
+      "path": "/cnfirmao-de-idade",
+      "title": "Confirm Age",
+      "metaDescription": "Please confirm your age."
+    },
+    {
+      "path": "/filtros",
+      "title": "Filters",
+      "metaDescription": "Explore our filters."
+    },
+    {
+      "path": "/carrinho",
+      "title": "Shopping Cart",
+      "metaDescription": "View your shopping cart."
+    },
+    {
+      "path": "/catalogo",
+      "title": "Catalog",
+      "metaDescription": "Explore our catalog."
+    },
+    {
+      "path": "/carrossel",
+      "title": "Carousel",
+      "metaDescription": "Discover our carousel."
+    },
+    {
+      "path": "/participantes",
+      "title": "Participants",
+      "metaDescription": "Meet our participants."
+    },
+    {
+      "path": "/menu-vertical",
+      "title": "Vertical Menu",
+      "metaDescription": "Explore our vertical menu."
+    }
+  ]
+}
